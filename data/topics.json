@@ -1,0 +1,224 @@
+[
+  {
+    "id": "karma",
+    "title_en": "Karma & Duty",
+    "title_hi": "कर्म एवं कर्तव्य",
+    "icon": "Activity",
+    "description_en": "Mastering the art of selfless action, fulfilling your personal duty (Svadharma), and freeing yourself from anxiety over results.",
+    "description_hi": "निष्काम कर्म का विज्ञान, स्वधर्म का निष्ठापूर्वक पालन और कर्मफल की चिंता से मुक्त होकर कार्य करने की कला।",
+    "verse_refs": [
+      "2.47",
+      "2.48",
+      "3.9",
+      "3.19",
+      "3.21",
+      "3.35",
+      "4.18",
+      "18.47"
+    ]
+  },
+  {
+    "id": "dharma",
+    "title_en": "Dharma & Righteous Living",
+    "title_hi": "धर्म एवं नैतिक जीवन",
+    "icon": "Shield",
+    "description_en": "Understanding righteous moral responsibility, upholding cosmic harmony, and standing resolute for righteousness in adversity.",
+    "description_hi": "सत्य और धर्म का मार्ग, नैतिक कर्तव्यों का पालन और विपरीत परिस्थितियों में भी धर्म पर अडिग रहने का मार्गदर्शन।",
+    "verse_refs": [
+      "1.1",
+      "2.31",
+      "3.35",
+      "4.7",
+      "4.8",
+      "18.66",
+      "18.78"
+    ]
+  },
+  {
+    "id": "bhakti",
+    "title_en": "Bhakti & Divine Love",
+    "title_hi": "भक्ति एवं भगवद्प्रेम",
+    "icon": "Heart",
+    "description_en": "The path of unconditional devotion, complete surrender, recognizing the divine in all beings, and experiencing unshakeable grace.",
+    "description_hi": "ईश्वर के प्रति अनन्य प्रेम, पूर्ण समर्पण, समस्त जीवों में परमात्मा का दर्शन और अगाध कृपा की प्राप्ति।",
+    "verse_refs": [
+      "9.22",
+      "9.26",
+      "9.34",
+      "11.55",
+      "12.13",
+      "12.14",
+      "12.20",
+      "18.65"
+    ]
+  },
+  {
+    "id": "moksha",
+    "title_en": "Moksha & Liberation",
+    "title_hi": "मोक्ष एवं परम मुक्ति",
+    "icon": "Sparkles",
+    "description_en": "Transcending the cycle of rebirth, dissolving the illusion of ego, and abiding in the eternal peace of Brahman.",
+    "description_hi": "जन्म-मरण के चक्र से मुक्ति, अहंकार का विसर्जन और परमानंद स्वरूप ब्रह्म में नित्य अवस्थान।",
+    "verse_refs": [
+      "2.71",
+      "2.72",
+      "5.24",
+      "8.15",
+      "15.6",
+      "18.54",
+      "18.66"
+    ]
+  },
+  {
+    "id": "meditation",
+    "title_en": "Meditation & Dhyana",
+    "title_hi": "ध्यान एवं एकाग्रता",
+    "icon": "Eye",
+    "description_en": "The authentic science of seated meditation, posture, breath steadying, single-pointed concentration, and samadhi.",
+    "description_hi": "ध्यान की शास्त्रीय विधि, आसन, प्राणायाम, एकाग्रता और चित्त को स्थिर कर आत्म-साक्षात्कार करने की साधना।",
+    "verse_refs": [
+      "6.10",
+      "6.11",
+      "6.12",
+      "6.19",
+      "6.25",
+      "6.26",
+      "8.12",
+      "8.13"
+    ]
+  },
+  {
+    "id": "anger-management",
+    "title_en": "Anger Management",
+    "title_hi": "क्रोध नियंत्रण",
+    "icon": "Flame",
+    "description_en": "How desire breeds attachment, attachment breeds anger, anger destroys intellect, and how to nip destructive rage at its roots.",
+    "description_hi": "कामना से क्रोध की उत्पत्ति, क्रोध से बुद्धि का विनाश और विनाशकारी आवेश को समूल शांत करने की विधि।",
+    "verse_refs": [
+      "2.62",
+      "2.63",
+      "3.37",
+      "5.23",
+      "5.26",
+      "16.21"
+    ]
+  },
+  {
+    "id": "stress-management",
+    "title_en": "Stress Management & Mental Peace",
+    "title_hi": "तनाव मुक्ति एवं मानसिक संतुलन",
+    "icon": "Wind",
+    "description_en": "Dissolving anxiety, eliminating overthinking, and establishing calm balance amid modern deadlines and turbulent circumstances.",
+    "description_hi": "चिंता, अवसाद और व्यर्थ के भय से मुक्ति, तथा कठिन से कठिन परिस्थितियों में भी मन को शांत रखने का मार्ग।",
+    "verse_refs": [
+      "2.14",
+      "2.56",
+      "6.5",
+      "6.6",
+      "12.15",
+      "18.61"
+    ]
+  },
+  {
+    "id": "self-control",
+    "title_en": "Self-Control & Sense Mastery",
+    "title_hi": "आत्मसंयम एवं इन्द्रिय निग्रह",
+    "icon": "Compass",
+    "description_en": "Taming unruly senses like horses through wisdom, building steadfast willpower, and steering thoughts towards nobility.",
+    "description_hi": "इन्द्रियों को विवेक से वश में करना, दृढ़ इच्छाशक्ति का विकास और मन को उच्च आदर्शों की ओर प्रेरित करना।",
+    "verse_refs": [
+      "2.58",
+      "2.60",
+      "2.61",
+      "2.68",
+      "3.41",
+      "3.42",
+      "6.35"
+    ]
+  },
+  {
+    "id": "leadership",
+    "title_en": "Leadership & Ethical Guidance",
+    "title_hi": "नेतृत्व एवं आदर्श आचरण",
+    "icon": "Crown",
+    "description_en": "Leading by personal example, inspiring teams through integrity, setting high moral benchmarks, and caring for collective welfare (Lokasangraha).",
+    "description_hi": "स्वयं श्रेष्ठ आचरण कर दूसरों को प्रेरित करना, सत्यनिष्ठा से नेतृत्व करना और लोककल्याण को सर्वोपरि रखना।",
+    "verse_refs": [
+      "3.20",
+      "3.21",
+      "4.1",
+      "10.41",
+      "18.46",
+      "18.78"
+    ]
+  },
+  {
+    "id": "happiness",
+    "title_en": "True Happiness & Joy",
+    "title_hi": "सच्चा सुख एवं आनंद",
+    "icon": "Sun",
+    "description_en": "Distinguishing between fleeting sensory pleasures that lead to sorrow and the lasting, nectarine joy of the awakened soul.",
+    "description_hi": "क्षणिक विषयों के दुःखदायी सुख और आत्मा के अक्षय, अमृतमय आनंद के बीच का स्पष्ट विवेक।",
+    "verse_refs": [
+      "2.65",
+      "2.66",
+      "5.21",
+      "5.22",
+      "6.28",
+      "18.36",
+      "18.37"
+    ]
+  },
+  {
+    "id": "knowledge",
+    "title_en": "Spiritual Knowledge & Wisdom",
+    "title_hi": "दिव्य ज्ञान एवं विवेक",
+    "icon": "BookOpen",
+    "description_en": "There is nothing in this world as purifying as divine wisdom; cutting through doubts with the razor sword of spiritual understanding.",
+    "description_hi": "संसार में ज्ञान के समान पवित्र करने वाला कुछ भी नहीं है; ज्ञान की तलवार से संशयों का छेदन करने का उपदेश।",
+    "verse_refs": [
+      "4.34",
+      "4.38",
+      "4.39",
+      "4.42",
+      "7.2",
+      "9.2",
+      "13.7",
+      "13.11"
+    ]
+  },
+  {
+    "id": "discipline",
+    "title_en": "Discipline & Noble Conduct",
+    "title_hi": "अनुशासन एवं जीवन शैली",
+    "icon": "Award",
+    "description_en": "Balance in eating, sleeping, recreation, and working; regulating habits to cultivate optimal physical and mental vitality.",
+    "description_hi": "आहार, निद्रा, विहार और कर्मों में सम्यक संतुलन, तथा जीवन को अनुशासित व ऊर्जावान बनाने के नियम।",
+    "verse_refs": [
+      "6.16",
+      "6.17",
+      "16.1",
+      "16.2",
+      "16.3",
+      "17.14",
+      "17.15",
+      "17.16"
+    ]
+  },
+  {
+    "id": "peace-of-mind",
+    "title_en": "Peace of Mind (Shanti)",
+    "title_hi": "मन की परम शांति",
+    "icon": "Feather",
+    "description_en": "For the undisciplined there is no wisdom, without wisdom there is no peace, and without peace, where is happiness?",
+    "description_hi": "जिसका मन शांत नहीं उसे ज्ञान नहीं, अशांत को शांति नहीं, और जिसे शांति नहीं उसे सुख कहाँ?",
+    "verse_refs": [
+      "2.66",
+      "2.70",
+      "4.39",
+      "5.12",
+      "5.29",
+      "12.12"
+    ]
+  }
+]
