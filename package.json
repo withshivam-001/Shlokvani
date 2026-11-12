@@ -10,6 +10,8 @@
     "db:seed": "node scripts/seed-db.js"
   },
   "dependencies": {
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/core": "^8.6.0",
     "framer-motion": "^11.2.10",
     "gsap": "^3.12.5",
     "lucide-react": "^0.395.0",
@@ -21,9 +23,9 @@
     "zustand": "^4.5.2"
   },
   "devDependencies": {
+    "@capacitor/cli": "^8.6.0",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4"
   }
 }
-

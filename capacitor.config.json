@@ -1,0 +1,17 @@
+
+{
+  "appId": "in.shlokvani.app",
+  "appName": "Shlokvani",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.shlokvani.in",
+    "cleartext": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#101B35",
+      "showSpinner": false
+    }
+  }
+}
