@@ -49,9 +49,9 @@ export default function Footer() {
             <Link href="/contact" className="hover:text-saffron-600 transition-colors">
               {t.footer_contact}
             </Link>
-            <Link href="/admin" className="hover:text-saffron-600 transition-colors text-saffron-600 font-semibold">
+            {/* <Link href="/admin" className="hover:text-saffron-600 transition-colors text-saffron-600 font-semibold">
               {t.nav_admin}
-            </Link>
+            </Link> */}
           </div>
 
           {/* Copyright & Dharma motto */}
